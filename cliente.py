@@ -14,4 +14,4 @@ def send_message():
         print("Falha ao enviar mensagem!")
 
 # Chama a função para enviar a mensagem
-send_message()
+send_message() #teste
